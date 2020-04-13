@@ -3,7 +3,7 @@
   "description": "blog",
   "version": "0.0.1",
   "scripts": {
-    "blog": "node getblog.js"
+    "blog": "node posts.js"
   },
   "dependencies": {
     "axios": "^0.19.2",
