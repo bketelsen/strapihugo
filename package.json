@@ -1,0 +1,14 @@
+{
+  "name": "brianketelsen",
+  "description": "blog",
+  "version": "0.0.1",
+  "scripts": {
+    "blog": "node getblog.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "js-yaml": "^3.13.1",
+    "url-slug": "^2.3.1"
+  }
+}
